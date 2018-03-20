@@ -70,7 +70,7 @@ if (isset($_GET['url'])) {
 	<html>
 	<body>
 		<p>Bacha: Katka zapomnela na <span style="text-decoration: line-through">okurku</span> URL. Nebo ji napsala blbe.</p>
-		<p>Vzor: lk.php?url=<em>https://www.levneknihy.cz/hry-a-puzzle/</em></p>
+		<p>Vzor: ?url=<em>https://www.levneknihy.cz/hry-a-puzzle/</em></p>
 	</body>
 	</html>';
 }
